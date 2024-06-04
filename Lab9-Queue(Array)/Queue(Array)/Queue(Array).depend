@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1697699597 source:e:\cse 225\lab\lab9-queue(array)\queue(array)\main.cpp
+	<iostream>
+	"quetype.h"
+
+1697694792 e:\cse 225\lab\lab9-queue(array)\queue(array)\quetype.h
+	"quetype.tpp"
+
+1697694488 e:\cse 225\lab\lab9-queue(array)\queue(array)\quetype.tpp
+	"quetype.h"
+
